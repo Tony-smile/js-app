@@ -1,0 +1,26 @@
+{
+  "name": "js-app",
+  "version": "1.0.0",
+  "description": "first js project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tony-smile/js-app.git"
+  },
+  "keywords": [
+    "learning",
+    "js",
+    "js",
+    "tutorial",
+    "js"
+  ],
+  "author": "tony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tony-smile/js-app/issues"
+  },
+  "homepage": "https://github.com/Tony-smile/js-app#readme"
+}
